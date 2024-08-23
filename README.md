@@ -8,8 +8,11 @@ Data Scraping: Collect data from the YouTube channel using the YouTube Data API 
 
 # Visualization: Generate interactive charts to visualize:
 Viewers who react to videos
+
 Types of reactors
+
 Viewers vs total comments
+
 Monthwise statistics of views, likes, and comments
 
 # Prerequisites
